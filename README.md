@@ -10,6 +10,6 @@
 
 ### Pertemuan 2
 - Celcius
-![Screenshot App (C)](https://github.com/adrianeka/Proyek_4/blob/main/SS_C.jpg?raw=true)
+- ![Screenshot App (C)](https://github.com/adrianeka/Proyek_4/blob/main/SS_C.jpg?raw=true)
 - Fahrenheit
-![Screenshot App (F)](https://github.com/adrianeka/Proyek_4/blob/main/SS_F.jpg?raw=true)
+= ![Screenshot App (F)](https://github.com/adrianeka/Proyek_4/blob/main/SS_F.jpg?raw=true)
